@@ -16,17 +16,17 @@
 		"native_yandex": "R-M-2131454-2",
 		"rewarde_yandex": "R-M-2131454-4",
 
-		"interstitial_yandex1": "adf-279013/966533",
-		"rewarde_yandex1": "adf-279013/966487",
+		"interstitial_yandex1": "R-M-2131454-3",
+		"rewarde_yandex1": "R-M-2131454-4",
 
-		"interstitial_yandex2": "adf-279013/966533",
-		"rewarde_yandex2": "adf-279013/966487",
+		"interstitial_yandex2": "R-M-2131454-3",
+		"rewarde_yandex2": "R-M-2131454-4",
 
-		"interstitial_yandex_1": "adf-279013/966533",
-		"rewarde_yandex_1": "adf-279013/966533",
+		"interstitial_yandex_1": "R-M-2131454-3",
+		"rewarde_yandex_1": "R-M-2131454-4",
 
-		"interstitial_yandex_2": "adf-279013/966533",
-		"rewarde_yandex_2": "adf-279013/966533",
+		"interstitial_yandex_2": "R-M-2131454-3",
+		"rewarde_yandex_2": "R-M-2131454-4",
 		
 
 		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
