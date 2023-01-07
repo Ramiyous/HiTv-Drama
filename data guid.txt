@@ -1,15 +1,15 @@
 {
 	"ADS": {
 		 "banner_type": "yandex",
-		"inter_type": "yandex",
+		"inter_type": "unity",
 		"native_type": "yandex",
-		"reward_type": "yandex",
+		"reward_type": "unity",
 
 		 
 		"ironsource_id": "4292105",
 
  
-		"unity_id": "11c7e1165",
+		"unity_id": "4973453",
 
 		"banner_yandex": "R-M-2131454-1",
 		"interstitial_yandex": "R-M-2131454-3",
