@@ -1,12 +1,12 @@
 {
 	"ADS": {
 		 "banner_type": "yandex",
-		"inter_type": "yandex",
+		"inter_type": "ironsource",
 		"native_type": "yandex",
-		"reward_type": "yandex",
+		"reward_type": "ironsource",
 
 		 
-		"ironsource_id": "4292105",
+		"ironsource_id": "1654739ed",
 
  
 		"unity_id": "4973453",
