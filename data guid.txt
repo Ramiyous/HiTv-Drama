@@ -29,15 +29,15 @@
 		"rewarde_yandex_2": "R-M-2131454-4",
 		
 
-		"interstitial_admob": "ca-app-pub-4058357467693617/8153408919",
+		"interstitial_admob": " ca-app-pub-1470120312873056/6111655810",
 		"banner_admob": "ca-app-pub-4785064539547681/2727322846",
-		"native_admob": "ca-app-pub-4058357467693617/6840327244",
-		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
+		"native_admob": "ca-app-pub-1470120312873056/7146106704",
+		"rewarde_admob": "ca-app-pub-1470120312873056/3204236507",
 
-		"interstitial_admob1": "ca-app-pub-4058357467693617/8153408919",
- 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+		"interstitial_admob1": " ca-app-pub-1470120312873056/6111655810",
+ 		"rewarde_admob1": "ca-app-pub-1470120312873056/3204236507",
 
-		"interstitial_admob2": "ca-app-pub-4058357467693617/8153408919",
+		"interstitial_admob2": " ca-app-pub-1470120312873056/6111655810",
  		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
 		"applovin_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
